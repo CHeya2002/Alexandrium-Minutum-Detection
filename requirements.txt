@@ -1,0 +1,13 @@
+torch
+torchvision
+ultralytics
+rfdetr
+roboflow
+opencv-python
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+tqdm
